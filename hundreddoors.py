@@ -28,7 +28,9 @@ def main():
             else:
                 doors[j] = 1
         print(doors)
+   
     # state the open positions
+    
     for index, i in enumerate(doors):
         if doors[index]:
             print(f'Door at position {index} is Open')
