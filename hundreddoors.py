@@ -8,7 +8,7 @@ def main():
 
     # create the list with 100 closed doors
 
-   doors = []
+    doors = []
     for i in range(100):
         doors.append(0)
     print(doors)
