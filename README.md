@@ -1,4 +1,4 @@
-# 100_Doors
+# 100_doors
 Problem : There are 100 doors in a row that are all initially closed. You make 100 passes by the doors. The
 first time through, visit every door and  toggle  the door  (if the door is closed,  open it;   if it is open,
 close it). The second time, only visit every 2nd door   (door #2, #4, #6, ...),   and toggle it. The third
